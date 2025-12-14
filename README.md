@@ -212,20 +212,18 @@ This project was developed as part of academic research at Aydın Adnan Menderes
 
 **Ayşegül Çağlı**  
 Aydın Adnan Menderes University  
-📧 201805049@stu.adu.edu.tr
 
 **Vakkas Karakurt**  
 Aydın Adnan Menderes University  
-📧 201805008@stu.adu.edu.tr | karakurtvakkas@gmail.com  
+📧  karakurtvakkas@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/vakkaskarakurt) | [GitHub](https://github.com/vakkaskarakurt)
 
 **Kürşat Edabalı Yıldırım**  
 Aydın Adnan Menderes University  
-📧 221805117@stu.adu.edu.tr
 
 **Research Advisors:**  
-- Dr. Fatih Soygazi (fatih.soygazi@adu.edu.tr)
-- Dr. Yılmaz Kılıçaslan (yilmaz.kilicaslan@adu.edu.tr)
+- Dr. Fatih Soygazi
+- Dr. Yılmaz Kılıçaslan
 
 ---
 
