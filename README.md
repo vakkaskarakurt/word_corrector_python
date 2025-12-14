@@ -237,21 +237,4 @@ Aydın Adnan Menderes University
 
 ---
 
-## 📖 Citation
-
-If you use this work in your research, please cite:
-```bibtex
-@article{cagli2023phonological,
-  title={The Role of Phonological Errors in Evaluation Metrics},
-  author={Ça{\u{g}}lı, Ay{\c{s}}eg{\"u}l and Karakurt, Vakkas and Yıldırım, K{\"u}r{\c{s}}at Edabalı and Soygazi, Fatih and Kılıçaslan, Yılmaz},
-  journal={Journal of Computer Science},
-  volume={IDAP-2023},
-  pages={44--51},
-  year={2023},
-  doi={10.53070/bbd.1350547}
-}
-```
-
----
-
 ⭐ If you find this project useful, please star the repository!
